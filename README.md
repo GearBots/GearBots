@@ -5,8 +5,9 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Denver, CO
-* ✉️  You can contact me at [gearykyle34@gmail.com](mailto:gearykyle34@gmail.com)
 * 🧠  I'm learning React Native and Tailwind
+* ✉️  You can contact me at [gearykyle34@gmail.com](mailto:gearykyle34@gmail.com)
+
 
 ### Skills
 
