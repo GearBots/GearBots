@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Denver, CO
-* 👨🏻‍💻 I'm currently working on a portfolio website that I will be deploying
+* 👨🏻‍💻 I'm currently working on a portfolio website that I will be deploying, it will showcase all projects including Cramify (which will remain private for the time being)
 * ✉️  You can contact me at [gearykyle34@gmail.com](mailto:gearykyle34@gmail.com)
 
 
