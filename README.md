@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Denver, CO
-* 👨🏻‍💻 I'm currently working on a new mobile app!
+* 👨🏻‍💻 I'm currently working on a new fitness application to help track/help with progression in the gym!
 * ✉️  You can contact me at [gearykyle34@gmail.com](mailto:gearykyle34@gmail.com)
 
 
